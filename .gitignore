@@ -1,0 +1,22 @@
+# venv
+.venv/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+# IDE
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+# App
+.env
+app.db
+.env
+app.db
+*.db
+*.sqlite3
+*.db-shm
+*.db-wal
